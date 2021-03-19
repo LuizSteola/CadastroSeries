@@ -1,0 +1,13 @@
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\CursoDotNet\CadastroSeries\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\CursoDotNet\CadastroSeries\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
